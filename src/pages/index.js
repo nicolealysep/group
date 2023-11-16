@@ -29,24 +29,24 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
 
-          //addison
+          /////////////////addison
           <a href='/AddisonGetz ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
+            <h3>Addison Getz &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
           ////////////////ella
           <a href='/EllaLarson ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
+            <h3>Ella Larson &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
           /////////////////nicole
           <a href='/NicoleParaschiv ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
+            <h3>Nicole Paraschiv &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
           /////////////////brie
           <a href='/BrieBrocato ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
+            <h3>Brie Brocato &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
           //////////////////

@@ -6,7 +6,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hey, I'm Brie. </h1>
           </div>
           <img
             className='pic'
@@ -15,9 +15,8 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
+            Hey, I am Brie Brocato.  I play soccer and love to be outdoors.  My favorite activities are
+            playing candy crush, hammocking, and looking at pinterest.
             You see, I've got some incredible powers, like superhuman strength, agility, 
             and the ability to shoot webs from my wrists. With great power comes great 
             responsibility, and I'm here to protect New York City from all kinds of baddies,

@@ -24,22 +24,26 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-      
+
+          <!--Addison-->
           <a href='/AddisonGetz ' className='card'>
             <h3>Addison Getz &rarr;</h3>
             <p>Click here to navigate to Addisons About Me</p>
           </a>
-          
+
+          <!--Ella-->
           <a href='/EllaLarson ' className='card'>
             <h3>Ella Larson &rarr;</h3>
             <p>Click here to navigate to Ellas About Me</p>
           </a>
-          
+
+          <!--Nicole-->
           <a href='/NicoleParaschiv ' className='card'>
             <h3>Nicole Paraschiv &rarr;</h3>
             <p>Click here to navigate to Nicole About Me</p>
           </a>
-          
+
+          <!--Brie-->
           <a href='/BrieBrocato ' className='card'>
             <h3>Brie Brocato &rarr;</h3>
             <p>Click here to navigate to Brie About Me</p>

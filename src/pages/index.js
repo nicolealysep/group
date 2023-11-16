@@ -17,12 +17,12 @@ export default function Home() {
           Below is all of our About Me Pages 
         </p>
 
-    <!--
+        <!--
         <p className='description2'>
           Next, each team member will create their own about me file in the
           pages directory:{' '}
         </p>
-    -->
+        -->
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>

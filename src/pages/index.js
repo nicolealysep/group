@@ -29,7 +29,7 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
 
-          ///////////////addison
+          //addison
           <a href='/AddisonGetz ' className='card'>
             <h3>Example About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>

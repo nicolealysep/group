@@ -42,13 +42,13 @@ export default function Home() {
           <!--Nicole-->
           <a href='/NicoleParaschiv ' className='card'>
             <h3>Nicole Paraschiv &rarr;</h3>
-            <p>Click here to navigate to Nicole About Me</p>
+            <p>Click here to navigate to Nicoles About Me</p>
           </a>
 
           <!--Brie-->
           <a href='/BrieBrocato ' className='card'>
             <h3>Brie Brocato &rarr;</h3>
-            <p>Click here to navigate to Brie About Me</p>
+            <p>Click here to navigate to Bries About Me</p>
           </a>
           
           <!--

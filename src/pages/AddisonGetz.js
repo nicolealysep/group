@@ -6,7 +6,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hey, I'm Addison. </h1>
           </div>
           <img
             className='pic'
@@ -15,8 +15,8 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
+            Hey I am your friendly neighbourhood Spider Addison. My real name is Addi Getz. 
+            I am an actor but mostly I fight villains and juggle high school.
             I am just your average student – well, maybe not so average. 
             You see, I've got some incredible powers, like superhuman strength, agility, 
             and the ability to shoot webs from my wrists. With great power comes great 

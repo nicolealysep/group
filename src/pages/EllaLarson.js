@@ -1,17 +1,17 @@
 export default function examplePage() {
     return (
       <div className='container'>
-        <title>Website</title>
+        <title>EllaLarson</title>
         <link rel='icon' href='/favicon.ico' />
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Ella Larson </h1>
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            src='https://media.licdn.com/dms/image/D5603AQHpYLs2m_5y7g/profile-displayphoto-shrink_400_400/0/1694304546624?e=1701302400&v=beta&t=kGG81nba6XQk1HJIJPjzCjnzzBrakfrxgICRTmuuk8g'
+            alt='ella larson'
           />
 
           <p className='description'>

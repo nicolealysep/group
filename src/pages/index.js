@@ -25,27 +25,26 @@ export default function Home() {
 
         <div className='grid'>
       
-          /////////////////addison
           <a href='/AddisonGetz ' className='card'>
             <h3>Addison Getz &rarr;</h3>
             <p>Click here to navigate to Addisons About Me</p>
           </a>
-          ////////////////ella
+          
           <a href='/EllaLarson ' className='card'>
             <h3>Ella Larson &rarr;</h3>
             <p>Click here to navigate to Ellas About Me</p>
           </a>
-          /////////////////nicole
+          
           <a href='/NicoleParaschiv ' className='card'>
             <h3>Nicole Paraschiv &rarr;</h3>
             <p>Click here to navigate to Nicole About Me</p>
           </a>
-          /////////////////brie
+          
           <a href='/BrieBrocato ' className='card'>
             <h3>Brie Brocato &rarr;</h3>
             <p>Click here to navigate to Brie About Me</p>
           </a>
-          //////////////////
+          
 
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'

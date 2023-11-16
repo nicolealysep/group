@@ -49,7 +49,7 @@ export default function Home() {
             <p>Click here to navigate to Brie About Me</p>
           </a>
           
-
+          <!--
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
@@ -80,6 +80,7 @@ export default function Home() {
             <h3>Netlify&rarr;</h3>
             <p>Click here to learn more about Netlify to host your website</p>
           </a>
+              -->
         </div>
       </main>
 

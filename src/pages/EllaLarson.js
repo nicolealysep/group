@@ -1,7 +1,7 @@
 export default function examplePage() {
     return (
       <div className='container'>
-        <title>EllaLarson</title>
+        <title>Website</title>
         <link rel='icon' href='/favicon.ico' />
 
         <main>
